@@ -14,7 +14,7 @@ public class DisplaySingleUser {
 						Class.forName("com.mysql.cj.jdbc.Driver");
 						System.out.println("step:1 Load/register database driver software");
 						
-						
+		
 			// Step 2:
 						String url = "jdbc:mysql://localhost:3306/mydb-a5";
 						String user_name="UserName";
